@@ -1,3 +1,5 @@
+// Problem link : https://codeforces.com/contest/1516/problem/A
+
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
